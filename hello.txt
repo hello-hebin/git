@@ -1,0 +1,9 @@
+
+git version 查看git版本
+git init 初始化git生成git仓库
+git status 查看git状态
+git add <filename>添文件到暂存区
+git add .加入所有文件到暂存区
+git commite -m 'message'提交文件到本地仓库
+git reset <filename>将尚没有commite之前加入到暂存区的文件重新拉回
+git log 查看日志
